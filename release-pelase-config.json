@@ -1,0 +1,29 @@
+{
+    "bootstrap-sha": "0ea59c5587d89949d49d8737165e0d37f05a6f92",
+    "release-type": "node",
+    "packages": {
+        "back": {
+            "components": "back"
+        },
+        "front/packages/front-1": {
+            "components": "front-1"
+        },
+        "front/packages/front-2": {
+            "components": "front-2"
+        },
+        "front/packages/front-3": {
+            "components": "front-3"
+        }
+    },
+    "plugins": [
+        {
+            "type": "linked-versions",
+            "groupName": "front",
+            "components": [
+                "front-1",
+                "front-2",
+                "front-3"
+            ]
+        }
+    ]
+}
