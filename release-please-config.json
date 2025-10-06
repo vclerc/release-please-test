@@ -3,10 +3,12 @@
     "release-type": "node",
     "packages": {
         "back": {
-            "components": "back"
+            "components": "back",
+            "include-component-in-tag": false
         },
         "back/packages": {
-            "components": "back-packages"
+            "components": "back-packages",
+            "include-component-in-tag": false
         },
         "back/packages/lib/lib-1": {
             "components": "lib-1"
