@@ -27,16 +27,20 @@
             "include-component-in-tag": false
         },
         "back/packages/service/service-2": {
-            "components": "service-2"
+            "components": "service-2",
+            "include-component-in-tag": false
         },
         "front/packages/front-1": {
-            "components": "front-1"
+            "components": "front-1",
+            "include-component-in-tag": false
         },
         "front/packages/front-2": {
-            "components": "front-2"
+            "components": "front-2",
+            "include-component-in-tag": false
         },
         "front/packages/front-3": {
-            "components": "front-3"
+            "components": "front-3",
+            "include-component-in-tag": false
         }
     },
     "plugins": [
