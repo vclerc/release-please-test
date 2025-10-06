@@ -1,7 +1,6 @@
 {
     "bootstrap-sha": "f3996aa51d54f683e2d952fbdbe35d78327d9ecb",
     "release-type": "node",
-    "include-component-in-tag": false,
     "packages": {
         "back": {
             "components": "back"
