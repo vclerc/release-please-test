@@ -23,7 +23,8 @@
             "include-component-in-tag": false
         },
         "back/packages/service/service-1": {
-            "components": "service-1"
+            "components": "service-1",
+            "include-component-in-tag": false
         },
         "back/packages/service/service-2": {
             "components": "service-2"
