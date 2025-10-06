@@ -11,13 +11,16 @@
             "include-component-in-tag": false
         },
         "back/packages/lib/lib-1": {
-            "components": "lib-1"
+            "components": "lib-1",
+            "include-component-in-tag": false
         },
         "back/packages/lib/lib-2": {
-            "components": "lib-2"
+            "components": "lib-2",
+            "include-component-in-tag": false
         },
         "back/packages/lib/lib-3": {
-            "components": "lib-3"
+            "components": "lib-3",
+            "include-component-in-tag": false
         },
         "back/packages/service/service-1": {
             "components": "service-1"
